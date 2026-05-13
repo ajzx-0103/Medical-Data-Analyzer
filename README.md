@@ -15,3 +15,5 @@
 1. 激活环境：`conda activate med_sec`
 2. 运行解析：`python xiangmu2.py`
 3. 查看产出：在当前目录查看 `Clinical_Data_Export.xlsx`
+<img width="1600" height="778" alt="屏幕截图 2026-05-13 111025" src="https://github.com/user-attachments/assets/e0eda011-b929-4006-9bb0-da30adcf5e8e" />
+<img width="1059" height="431" alt="屏幕截图 2026-05-13 111057" src="https://github.com/user-attachments/assets/81665643-c463-4284-86a0-9d47c4ae2531" />
